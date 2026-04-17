@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CareerLens - Upload Resume</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>CareerLens</h1>
+            <p>Upload your resume (Image) to generate your ATS score.</p>
+        </header>
+
+        <main>
+            <form action="/analyze" method="POST" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="job_description">Job Description:</label>
+                    <textarea id="job_description" name="job_description" rows="6" required></textarea>
+                </div>
+                
+                <div class="form-group">
+                    <label for="resume_file">Upload Resume (PNG, JPG for OpenCV):</label>
+                    <input type="file" id="resume_file" name="resume_file" accept=".png, .jpg, .jpeg" required>
+                </div>
+
+                <button type="submit">Analyze Resume</button>
+            </form>
+        </main>
+    </div>
+</body>
+</html>
