@@ -1,0 +1,19 @@
+#Backend Engineer!#
+We are seeking a Backend Software Engineer to join our core team. 
+The ideal candidate will have strong experience with Python and the Django framework. 
+You should be comfortable designing REST APIs, managing PostgreSQL databases, and working 
+in an Agile methodology environment. Experience with AWS cloud infrastructure and deploying 
+scalable applications is highly preferred.
+
+
+#Digital Marketing Specialist!#
+We are looking for a Data-Driven Digital Marketing Specialist. 
+You must be proficient in SEO and SEM strategies. The role requires daily use of Google Analytics 
+to track campaign ROI and conversion rates. Experience with B2B lead generation, HubSpot CRM, and 
+automated Email Marketing pipelines is required.
+
+#Data-Analyst!#
+We are hiring a Data Analyst to support our business intelligence team. 
+Required skills include advanced SQL querying, data visualization using Tableau or PowerBI, 
+and data manipulation using Python (Pandas/NumPy). You will be expected to present your findings 
+to stakeholders and create interactive dashboards.
