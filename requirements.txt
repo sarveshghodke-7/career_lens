@@ -1,4 +1,7 @@
+Flask==3.0.0
 opencv-python==4.8.1.78
 numpy==1.26.2
+PyMySQL==1.1.0
 pytesseract==0.3.10
 matplotlib==3.8.2
+werkzeug==3.0.1
